@@ -1,7 +1,8 @@
 /***********************************************************
 * Developer: Minhas Kamal (minhaskamal024@gmail.com)       *
 * Website: https://github.com/MinhasKamal/DownGit          *
-* License: MIT License                                     *
+* License: MIT License   
+* More comments
 ***********************************************************/
 
 var homeModule = angular.module('homeModule', [
